@@ -35,6 +35,11 @@ import java.util.Map;
  * 简单main函数，用于测试当面付api
  * sdk和demo的意见和问题反馈请联系：liuyang.kly@alipay.com
  */
+/*
+*使用natapp.com  隧道 内网穿透 进行支付宝回调测试
+*
+*/
+
 public class Main {
     private static Log log = LogFactory.getLog(Main.class);
 
